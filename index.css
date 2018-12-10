@@ -140,3 +140,8 @@
 .login{
     padding: 10px;
 }
+.footer{
+    background: aqua;
+    height: 100px;
+    text-align: center;
+}
